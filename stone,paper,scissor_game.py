@@ -1,4 +1,5 @@
 import random
+#computer
 computer=random.choice('RPS')
 #print(computer)
 print("R-Rock,P-paper,S-Scissor")
@@ -8,8 +9,8 @@ if player in 'RPS':
         print("Tie")
     
     else:
-    #palyer
-        #if 'R'=='P' or 'P'=='S' or 'S'=='R':
+    #player
+        
         if (computer=='R' and player=='P') or (computer=='P' and player=='S') or(computer=='S' and player=='R'):
             print('---------Player is Win----------')
             print("Computer choice is:",computer)
