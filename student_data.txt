@@ -1,0 +1,13 @@
+sno,Name,Age,Mark
+1,Karthic,60,0
+2,srikanth,85,1
+3,jayabalan,21,100
+4,srinivasan,21,99
+5,rahman,35,8
+6,Hari,50,10
+7,sarathi,35,45
+8,Dravid,50,100
+9,santhosh,98,90
+10,Rahul,50,10
+11,solai,60,99
+12,Pasumali,60,100
